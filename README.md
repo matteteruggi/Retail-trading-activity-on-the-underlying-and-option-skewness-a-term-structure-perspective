@@ -11,3 +11,5 @@ CROSSSPY = models with market skewness (SPY) and interaction
 NOCROSSSPY = models with market skewness (SPY)
 CROSSSNASDAQ = models with market skewness (NASDAQ) and interaction
 NOCROSSNASDAQ = models with market skewness (NASDAQ) and no interaction
+Immagini = identifies an immagine folder, showing graphically the magnitude, but not the significance, of the structural break.
+Immagini_effetto_skewness = shows the impact of the pandemic and of the post-pandemic on the y, the risk-neutral skewness.
