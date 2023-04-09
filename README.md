@@ -5,3 +5,9 @@ Option skewness is considered a valid measure of distinction between a smile and
   90 days options
   120 to 180 days options.
 A possible explanation might be the retail trading activity on the underlying stock. Effectively, not only retail trading activity, when properly measured, has an explanatory power on the skewness of the underlying, but a clear term-structure trend emerges, with parameters changing magnitude and sign at different maturities. Additionally, an event study on the impact of the stay-at-home mood on the skewness term structure was carried out. Three phases were questioned: the pandemic shock, the pandemic exit effect and the after-pandemic one. There is, in conclusion, clear evidence of the propagation of the retail trading activity up to the term structure of skewness of the options market. This happens mainly through the channel of the activity and the combined effect of activity and sentiment.
+MATFILE= matlab file showing structural break (pandemic, post pandemic and after pandemic)+
+MATFILE cross = as MATFILE but with interaction term
+CROSSSPY = models with market skewness (SPY) and interaction
+NOCROSSSPY = models with market skewness (SPY)
+CROSSSNASDAQ = models with market skewness (NASDAQ) and interaction
+NOCROSSNASDAQ = models with market skewness (NASDAQ) and no interaction
