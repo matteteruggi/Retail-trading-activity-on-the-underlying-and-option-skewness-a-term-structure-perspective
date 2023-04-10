@@ -13,3 +13,4 @@ CROSSSNASDAQ = models with market skewness (NASDAQ) and interaction
 NOCROSSNASDAQ = models with market skewness (NASDAQ) and no interaction
 Immagini = identifies an immagine folder, showing graphically the magnitude, but not the significance, of the structural break.
 Immagini_effetto_skewness = shows the impact of the pandemic and of the post-pandemic on the y, the risk-neutral skewness.
+In the CSV Files the columns starting by S denote the p.value, and the columns starting by stars denote the signifcance (the number of stars, 10%,5% and 1%).
